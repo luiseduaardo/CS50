@@ -34,7 +34,7 @@ To explore the repository:
 2. Navigate to the week you are interested in.
 
 3. Open the code or run the solutions using your preferred environment.
-    Note: Some files (e.g., C or Python programs) may require specific compilers or interpreters.
+> **Note**: Some files (e.g., C or Python programs) may require specific compilers or interpreters.
 
 ## 👤 Author
 Developed and maintained by Luís Eduardo Cavalcante Santos.
