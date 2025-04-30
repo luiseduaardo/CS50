@@ -1,0 +1,13 @@
+// Os arquivos principais não foram adicionados //
+
+sort1 uses: Bubble Sort
+
+How do you know?: best case takes .066s; worst case takes .200s
+
+sort2 uses: Merge Sort
+
+How do you know?: best case takes .042s; worst case takes .043s
+
+sort3 uses: Selection Sort
+
+How do you know?: best case takes .109s; worst case takes .117s
